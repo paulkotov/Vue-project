@@ -1,5 +1,3 @@
-# rosenergoatom-reporting
-
 > A Vue.js project
 
 ## Build Setup
